@@ -19,7 +19,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MAASRANGA TV" tvg-id="10" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="NEWS",MAASRANGA TV
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-name="BPL" tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2NlyPPnpfMfpNrUagJwPh2tH_o-bSZ042vIPYJmotg&s=10" group-title="SPORTS",T Sports HD
+#EXTINF:-1 tvg-name="BPL" tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2NlyPPnpfMfpNrUagJwPh2tH_o-bSZ042vIPYJmotg&s=10" group-title="SPORTS",BPL
 https://bd-mc-fdlive.fancode.com/mumbai/138933_english_hls_4a3b9a1b6c39851_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="DD Sports" tvg-id="12" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
