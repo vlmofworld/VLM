@@ -1,4 +1,4 @@
-9#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="BTV NEWS" tvg-id="1" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" group-title="NEWS",BTV NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="JAMUNA TV" tvg-id="2" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="NEWS",JAMUNA TV
